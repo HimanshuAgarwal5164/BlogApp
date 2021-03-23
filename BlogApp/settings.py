@@ -25,7 +25,7 @@ SECRET_KEY = 'b*#17+k!fnugvt7z(4s7323-i7!9_)5tq18z8q^k6hk#s5pi1j'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['digi-diaries-ha.herokuapp.com/', '127.0.0.1']
+ALLOWED_HOSTS = ['digi-diaries-ha.herokuapp.com/', '127.0.0.1', '.herokuapp.com']
 
 
 # Application definition
